@@ -1,3 +1,3 @@
-# Abstract
+# Neural Networks: A Continuum of Potential
 
 Theories on neural networks with an infinite number of hidden units were explored since the late 1990's, deepening the understanding of these computational models in two principal aspects: 1. network behavior under some limiting process on its parameters and 2. neural networks from a functional perspective. Continuous neural networks are of particular interest due to their computational feasibility from finite affine parametrizations and strong convergence properties under constraints. In this paper, we survey some of the theoretical groundings of continuous networks, notably their correspondence with Gaussian processes, computation and applications through the Neural Tangent Kernel (NTK) formulation, and apply the infinite dimensional extension to inputs and outputs all the while considering their universal approximation properties.
