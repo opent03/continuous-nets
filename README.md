@@ -1,3 +1,11 @@
+# @@
+
+I co-wrote "Neural Networks: A Continuum of Potential" with Eric Hu and Johnny Huang as the final project for COMP 599 - Topics in Computer Science: Mathematical Techniques for Machine Learning, taught by Prof. Panangaden, Fall 2019. 
+
+"On the Concentration of Measure in Orlicz spaces of exponential type" was my final project for MATH 598 - Topics in Probability & Statistics: Concentration Phenomena, taught by Prof. Lin, Winter 2020. 
+
+"On the Analysis of Stochastic Gradient Descent in Neural Networks via Gradient Flows" was my final report of MATH 470 - Honors Research Project, supervised by Prof. Khalili, Winter 2020. 
+
 # Neural Networks: A Continuum of Potential, December 2019
 
 Theories on neural networks with an infinite number of hidden units were explored since the late 1990's, deepening the understanding of these computational models in two principal aspects: 1. network behavior under some limiting process on its parameters and 2. neural networks from a functional perspective. Continuous neural networks are of particular interest due to their computational feasibility from finite affine parametrizations and strong convergence properties under constraints. In this paper, we survey some of the theoretical groundings of continuous networks, notably their correspondence with Gaussian processes, computation and applications through the Neural Tangent Kernel (NTK) formulation, and apply the infinite dimensional extension to inputs and outputs all the while considering their universal approximation properties.
