@@ -4,9 +4,9 @@ I co-wrote "Neural Networks: A Continuum of Potential" with Eric Hu and Johnny H
 
 "On the Concentration of Measure in Orlicz spaces of exponential type" was my final project for MATH 598 - Topics in Probability & Statistics: Concentration Phenomena, taught by Prof. Lin, Winter 2020. 
 
-"On the Analysis of Stochastic Gradient Descent in Neural Networks via Gradient Flows" was my final report of MATH 470 - Honors Research Project, supervised by Prof. Khalili, Winter 2020. 
+"On the Analysis of Stochastic Gradient Descent in Neural Networks via Gradient Flows" was my final report for MATH 470 - Honors Research Project, supervised by Prof. Khalili, Winter 2020. 
 
-I co-wrote "Fader Networks: A Heuristic Approach" with Marcos Cardenas Zelaya and Marie Leech, our final report of COMP 551, taught by Prof. William Hamilton. The level of reproducibility of Lample et. al.'s work was mindblowing. We generated some pretty hilarious domain adapted images. 
+I co-wrote "Fader Networks: A Heuristic Approach" with Marcos Cardenas Zelaya and Marie Leech, our final report for COMP 551, taught by Prof. William Hamilton. The level of reproducibility of Lample et. al.'s work was mindblowing. We generated some pretty hilarious domain adapted images. 
 
 # Neural Networks: A Continuum of Potential, December 2019
 
